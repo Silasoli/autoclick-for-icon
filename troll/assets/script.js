@@ -1,0 +1,1 @@
+setTimeout(() => {document.getElementById('btnTroll').click()}, 3000);
